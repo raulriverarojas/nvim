@@ -1,0 +1,2 @@
+require("spaceman")
+print('hello')
